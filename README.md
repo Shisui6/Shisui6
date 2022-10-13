@@ -25,5 +25,5 @@
 
 <img align="center" width="34%" src="https://github-readme-stats.vercel.app/api?username=shisui6&show_icons=true&locale=en" alt="shisui6" />
 
-<img align="right" width="32%" src="https://github-readme-streak-stats.herokuapp.com/?user=shisui6&" alt="shisui6" />
+<img align="right" width="31%" src="https://github-readme-streak-stats.herokuapp.com/?user=shisui6&" alt="shisui6" />
 </div>
