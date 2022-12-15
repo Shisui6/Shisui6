@@ -1,11 +1,11 @@
-<h1 align="center">Hi 👋, I'm Okemdi Udeh</h1>
-<h3 align="center">A passionate software engineer from Nigeria</h3>
+<h1 align="center">Hi 👋, I'm Okemdi</h1>
+<h3 align="center">A creative software engineer and UI/UX designer from Nigeria</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shisui6&label=Profile%20views&color=0e75b6&style=flat" alt="shisui6" /> </p>
 
 - 🌱 I’m currently learning **Full-Stack Development, Data Structures and Algorithms**
 
-- 👨‍💻 All of my projects are available [here](https://okemdi-portfolio.netlify.app/)
+- 👨‍💻 Check out all my projects on my [portfolio](https://okemdi-portfolio.netlify.app/)
 
 - 💬 Ask me about **JavaScript, React, Redux, Ruby, Ruby on Rails**
 
