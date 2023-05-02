@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Full-Stack Development, Data Structures and Algorithms**
 
-- 👨‍💻 Check out all my projects on my [portfolio](https://okemdi-portfolio.netlify.app/)
+- 👨‍💻 Check out all my projects on my [portfolio](https://okemdi-portfolio.vercel.app/)
 
 - 💬 Ask me about **JavaScript, React, Redux, Ruby, Ruby on Rails**
 
