@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Okemdi</h1>
-<h3 align="center">A creative software engineer and UI/UX designer from Nigeria</h3>
+<h3 align="center">A creative software engineer and UI/UX designer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shisui6&label=Profile%20views&color=0e75b6&style=flat" alt="shisui6" /> </p>
 
